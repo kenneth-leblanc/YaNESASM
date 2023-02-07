@@ -1,5 +1,5 @@
 # YaNESASM
-YaNASASM - Yet Another NES Assembler aims to be as easy as NESASM with some minor improvements
+YaNASASM - Yet Another NES Assembler aims to be as easy an drop in NESASM replacement with some minor improvements
 
 ## Features
 
